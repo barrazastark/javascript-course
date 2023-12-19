@@ -19,5 +19,10 @@ for (var i = 0; i < 10; i++) {
 
 }
 
-console.log(numerosPares)
+// console.log(numerosPares)
 
+numerosPares.forEach((element, index) => {
+
+    console.log(element, index);
+
+});
