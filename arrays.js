@@ -24,5 +24,6 @@ for (var i = 0; i < 10; i++) {
 numerosPares.forEach((element, index) => {
 
     console.log(element);
+    console.log(index);
 
 });
