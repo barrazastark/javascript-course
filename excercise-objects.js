@@ -6,8 +6,6 @@
 
 var palabra = prompt("escribe una palabra");
 
-var letters = {};
-
 for (var i = 0; i < palabra.length; i++) {
 
     var letter = palabra[i];
