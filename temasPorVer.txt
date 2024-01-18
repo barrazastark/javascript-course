@@ -1,0 +1,19 @@
+
+// Javascript
+
+// features of ES6
+// Hoisting
+// Closures
+// Event loop (dominar bien esto)
+// this and context
+
+// Practicar algoritmos, y estructuras de datosn (arrays, objetos, etc, map, set)
+
+
+// Ejercicio usando todo lo visto:
+(vanilla js)
+consumir la api de github para mostrar los issues de un repostiorio dado y
+ crear una tabla con los datos de los issues
+
+
+// sig paso: React

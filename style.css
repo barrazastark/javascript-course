@@ -25,3 +25,11 @@
 .red {
     border: 5px solid #dc3545; 
 }
+
+.not-completed {
+    border: 5px solid #6c757d;
+}
+
+.completed {
+    border: 5px solid #1f8754;
+}
