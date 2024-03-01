@@ -16,4 +16,10 @@ consumir la api de github para mostrar los issues de un repostiorio dado y
  crear una tabla con los datos de los issues
 
 
-// sig paso: React
+1-Crear la pagina estatica
+    Crear UI
+2-Crear file de JS ejercicio.js
+    Hacer request fetch a la api de github.
+    Hacer console log de la data.
+    Identificar las Keys a usar para el registro de la UI
+3-Iterar resultados del request para reemplazar la data de la pagina estatica
